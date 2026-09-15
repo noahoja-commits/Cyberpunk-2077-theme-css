@@ -1,0 +1,6 @@
+---
+description: Fork doctrine
+alwaysApply: true
+---
+
+Follow AGENTS.md. CSS-only unless asked. Port tokens; do not invent a framework.
